@@ -1,1 +1,3 @@
-# Garbage-And-Pot-Hole-Detection
+# Garbage And Pot Hole Detection
+
+Hybrid Model Using CNN + Yolo
